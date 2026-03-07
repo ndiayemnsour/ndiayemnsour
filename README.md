@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Bonjour, Dalal jam,  je suis Mansour Ndiaye 
+## 💻 Développeur Full Stack / Mobile et Web
 
-<!--
-**ndiayemnsour/ndiayemnsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par le développement Web, Mobile et les technologies DevOps.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=0F76C0&center=true&vCenter=true&width=500&lines=Développeur+Flutter+%26+React+JS;Passionné+par+l'innovation+tech;Toujours+en+apprentissage" alt="Typing animation">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies que j'utilise
+
+### Backend
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+![Golang](https://img.shields.io/badge/Go-blue?logo=go)
+
+### Frontend
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
+
+### Base de données
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
