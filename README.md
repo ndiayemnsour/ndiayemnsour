@@ -4,7 +4,7 @@
 Développeur passionné par le développement Web, Mobile et les technologies DevOps.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=0F76C0&center=true&vCenter=true&width=500&lines=Développeur+Flutter+%26+React+JS;Passionné+par+l'innovation+tech;Toujours+en+apprentissage" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=0F76C0&center=true&vCenter=true&width=500&lines=Développeur+Python+Django+Django-Rest-Framework+Flutter+%26+React+JS;Passionné+par+l'innovation+tech;Toujours+en+apprentissage" alt="Typing animation">
 </div>
 
 ## 🚀 Technologies que j'utilise
@@ -12,7 +12,7 @@ Développeur passionné par le développement Web, Mobile et les technologies De
 ### Backend
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-green?logo=django)
-![Golang](https://img.shields.io/badge/Go-blue?logo=go)
+![Django-Rest-Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-blue?logo=react)
