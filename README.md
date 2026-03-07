@@ -2,9 +2,8 @@
 ## 💻 Développeur Full Stack / Mobile et Web
 
 Développeur passionné par le développement Web, Mobile et les technologies DevOps.
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=0F76C0&center=true&vCenter=true&width=500&lines=Développeur+Python+Django+Django-Rest-Framework+Flutter+%26+React+JS;Passionné+par+l'innovation+tech;Toujours+en+apprentissage" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=0F76C0&center=true&vCenter=true&width=600&lines=Développeur+Python+%26+Django;Spécialiste+Django-REST-Framework;Développeur+Flutter+%26+React+JS;Toujours+en+apprentissage" alt="Typing animation">
 </div>
 
 ## 🚀 Technologies que j'utilise
