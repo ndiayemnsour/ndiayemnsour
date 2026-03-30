@@ -8,12 +8,12 @@ Développeur passionné par le développement Web, Mobile et les technologies De
 
 ## 🚀 Technologies que j'utilise
 
-### Backend
+### Framework Backend
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-green?logo=django)
 ![Django-Rest-Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Frontend
+### Framework Frontend
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
