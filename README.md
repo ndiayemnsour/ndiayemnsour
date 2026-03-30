@@ -1,4 +1,4 @@
-# 👋 Bonjour, Dalal jam,  je suis Mansour Ndiaye 
+# Bonjour, Dalal jam,  je suis Mansour Ndiaye 
 ## 💻 Développeur Full Stack / Mobile et Web
 
 Développeur passionné par le développement Web, Mobile et les technologies DevOps.
